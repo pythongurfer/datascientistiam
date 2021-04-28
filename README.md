@@ -8,10 +8,10 @@ This is Anika's Github
 - I am interested in investments ( Stocks, Pre ICO for cryptos / digital assets and Venture Capital) 
 - My favourite sports are tennis and swimming
 - 📫   How to find me: 
-  - :dart:   [Linkedin](https://www.linkedin.com/in/anikarosenzuaig/)
-  - :briefcase:   [Company Website](https://www.statsdeck.io/)
-  - :star:   [Yat](https://y.at/%F0%9F%94%AC%F0%9F%92%BB%E2%9A%A1%F0%9F%8D%92/go)
-  - :office:
+  -  [Linkedin](https://www.linkedin.com/in/anikarosenzuaig/)
+  - [Company Website](https://www.statsdeck.io/)
+  - [Yat](https://y.at/%F0%9F%94%AC%F0%9F%92%BB%E2%9A%A1%F0%9F%8D%92/go)
+
 
 [![pythongurfer's github stats](https://github-readme-stats.vercel.app/api?username=pythongurfer&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 

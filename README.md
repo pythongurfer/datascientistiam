@@ -1,5 +1,7 @@
 # Hi there 
 
+This is Anika's Github
+
 - :point_right:: I love math, programming, data science, and sports. 
 - :woman_scientist: I help companies develop their BI, Data Visualization and Reporting tools
 - :unicorn: I am currently working on my Company Business Plan

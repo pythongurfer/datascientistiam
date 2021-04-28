@@ -5,7 +5,7 @@ This is Anika's Github
 - I am Based in Berlin, Germany.
 - I Speak English, Espanol, und Deutsch 
 - :woman_scientist:  I love math, programming, data science. 
-- :chart_with_upwards_trend:  I help companies develop their BI, Data Visualization and Reporting tools
+- :chart_with_upwards_trend:  I help companies develop A-Level Business Intelligence, Data Visualization and Reporting tools
 - :rocket:  I am currently working on my Company Business Plan
 - I am interested in investments ( Stocks, Pre ICO for cryptos / digital assets and Venture Capital) 
 - My favourite sports are tennis and swimming

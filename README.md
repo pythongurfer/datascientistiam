@@ -2,8 +2,8 @@
 
 This is Anika's Github
 
-- :point_right:  I love math, programming, data science. 
-- :woman_scientist:  I help companies develop their BI, Data Visualization and Reporting tools
+- :woman_scientist:  I love math, programming, data science. 
+- :chart_with_upwards_trend:  I help companies develop their BI, Data Visualization and Reporting tools
 - :rocket:  I am currently working on my Company Business Plan
 - :chart:  I am interested in investments ( Stocks, Pre ICO for cryptos and Venture Capital) 
 - :tennis: My favourite sports are tennis and swimming

@@ -6,7 +6,7 @@ This is Anika's Github
 - :woman_scientist:  I help companies develop their BI, Data Visualization and Reporting tools
 - :rocket:  I am currently working on my Company Business Plan
 - :chart:  I am interested in investments ( Stocks, Pre ICO for cryptos and Venture Capital) 
-- :tennis: My favourite sport are tennis and swimming
+- :tennis: My favourite sports are tennis and swimming
 - 📫   How to find me: 
   - :star:   [Linkedin](https://www.linkedin.com/in/anikarosenzuaig/)
   - :briefcase:   [Company Website](https://www.statsdeck.io/)

@@ -10,7 +10,6 @@ This is Anika's Github
 - My favourite sports are tennis and swimming
 - 📫   How to find me: 
   -  [Linkedin](https://www.linkedin.com/in/anikarosenzuaig/)
-  - [Company Website](https://www.statsdeck.io/)
   - [Yat](https://y.at/%F0%9F%94%AC%F0%9F%92%BB%E2%9A%A1%F0%9F%8D%92/go)
 
 

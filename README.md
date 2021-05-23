@@ -3,7 +3,7 @@
 This is Anika's Github
 
 - I am Based in Berlin, Germany.
-- I speak English, Espanol, und ein bissen Deutsch 
+- I speak English, Espanol, und ein bisschen Deutsch 
 - :woman_scientist:  I love math, programming, data science. 
 - :chart_with_upwards_trend:  I help companies develop A-Level Business Intelligence, Data Visualization and Reporting tools
 - I am interested in investments ( Stocks, IEOs and digital assets, Venture Capital) 
